@@ -1,3 +1,10 @@
+
+body{
+    background-color: white;
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
 .product{
     background-color: white;
     padding: 5px;
@@ -10,13 +17,13 @@
     align-items: center;
 }
 .productlist{
-    background-color: black;
+    background-color: white;
     margin: 10px;
     padding: 10px;
 }
 .image{
-    width: 1200px;
-    height: 600px; 
+    width: 800px;
+    height: 300px; 
 }
 .fixed-nav{
     position: fixed;

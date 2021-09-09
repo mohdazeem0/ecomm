@@ -1,0 +1,6 @@
+.product{
+    border: 2px solid grey !important;
+}
+.productlist{
+    border: 3px solid rgba(128, 128, 128, 0.527) !important;
+}

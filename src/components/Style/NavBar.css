@@ -1,0 +1,8 @@
+.navbar-brand{
+    color: #FF1E56 !important;
+    font-size: 30px;
+    margin-left: 10px;
+}
+#mainnav{
+    float: right;
+}
